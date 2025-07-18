@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Business with Premium Websites",
+    "subtitle": "Beautifully Crafted for Your Business",
+    "description": "We create stunning, conversion-focused websites that elevate your brand and drive results. From concept to launch, we deliver excellence.",
+    "viewPortfolio": "View Our Work",
+    "getStarted": "Get Quote"
+  },
+  "features": {
+    "title": "Why Choose Our Websites?",
+    "subtitle": "We deliver more than just websites - we create digital experiences",
+    "lightning": {
+      "title": "Lightning Fast",
+      "description": "Optimized for speed with cutting-edge technology. Your visitors won't wait, and neither should you."
+    },
+    "mobile": {
+      "title": "Mobile First",
+      "description": "Perfectly responsive designs that look amazing on every device, from phones to desktops."
+    },
+    "seo": {
+      "title": "SEO Optimized",
+      "description": "Built with search engines in mind. Get found by your customers when they need you most."
+    },
+    "secure": {
+      "title": "Secure & Reliable",
+      "description": "Enterprise-level security and 99.9% uptime guarantee. Your business deserves the best."
+    },
+    "userFocused": {
+      "title": "User Focused",
+      "description": "Designed with your users in mind. Every element serves a purpose in driving conversions."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "We're here when you need us. Ongoing support and maintenance included with every project."
+    }
+  },
+  "portfolio": {
+    "title": "Featured Projects",
+    "viewAll": "View All Templates"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "testimonial1": {
+      "text": "Absolutely stunning website! The design exceeded our expectations and our customers love the modern look.",
+      "name": "Sarah Johnson",
+      "position": "CEO, TechStart Inc."
+    },
+    "testimonial2": {
+      "text": "Professional, fast, and exactly what we needed. Our online sales increased by 40% after the launch!",
+      "name": "Mike Chen",
+      "position": "Founder, EcoStore"
+    },
+    "testimonial3": {
+      "text": "The attention to detail is remarkable. Every element is perfectly crafted and the site loads incredibly fast.",
+      "name": "Emma Williams",
+      "position": "Marketing Director, CreativeHub"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Perfect Plan",
+    "subtitle": "Flexible pricing for businesses of all sizes",
+    "starter": {
+      "title": "Starter",
+      "price": "$299",
+      "description": "Perfect for small businesses",
+      "features": [
+        "5 Page Website",
+        "Responsive Design",
+        "Basic SEO Setup",
+        "Contact Form",
+        "1 Month Support"
+      ],
+      "button": "Get Started"
+    },
+    "professional": {
+      "title": "Professional",
+      "price": "$599",
+      "description": "Ideal for growing businesses",
+      "popular": "Most Popular",
+      "features": [
+        "10 Page Website",
+        "Advanced Animations",
+        "SEO Optimization",
+        "E-commerce Ready",
+        "3 Months Support",
+        "Analytics Integration"
+      ],
+      "button": "Choose Plan"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "$999",
+      "description": "For established companies",
+      "features": [
+        "Unlimited Pages",
+        "Custom Functionality",
+        "Premium Support",
+        "Advanced Analytics",
+        "CMS Integration",
+        "6 Months Support"
+      ],
+      "button": "Contact Us"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "description": "Join hundreds of satisfied customers who have already transformed their online presence",
+    "button": "Start Your Project"
+  },
+  "footer": {
+    "services": "Services",
+    "webDesign": "Web Design",
+    "ecommerce": "E-commerce",
+    "seoServices": "SEO Services",
+    "maintenance": "Maintenance",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "ourTeam": "Our Team",
+    "careers": "Careers",
+    "blog": "Blog",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "documentation": "Documentation",
+    "contactSupport": "Contact Support",
+    "faq": "FAQ",
+    "copyright": "WebFancy Pro. All rights reserved.",
+    "madeWith": "Made with",
+    "forBusinesses": "for amazing businesses"
+  },
+  "templates": {
+    "title": "Website Templates Gallery",
+    "subtitle": "Choose from our collection of stunning, professional website designs",
+    "all": "All",
+    "ecommerce": "E-commerce",
+    "business": "Business",
+    "portfolio": "Portfolio",
+    "features": "Key Features:",
+    "liveDemo": "Live Demo",
+    "buyNow": "Buy Now"
+  },
+  "about": {
+    "title": "About WebFancy Pro",
+    "subtitle": "Creating Digital Excellence Since 2020",
+    "description": "We are a passionate team of web developers and designers dedicated to creating exceptional digital experiences. Our mission is to help businesses of all sizes establish a strong online presence through beautifully crafted, high-performance websites.",
+    "story": {
+      "title": "Our Story",
+      "content": "Founded in 2020, WebFancy Pro started with a simple vision: make professional web design accessible to everyone. What began as a small team of developers has grown into a full-service digital agency, serving clients worldwide with cutting-edge web solutions."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "We believe every business deserves a website that not only looks stunning but also performs exceptionally. Our mission is to bridge the gap between beautiful design and powerful functionality, delivering websites that drive real business results."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality First",
+        "description": "We never compromise on quality. Every line of code, every pixel, and every interaction is crafted with precision."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We stay ahead of the curve, constantly exploring new technologies and design trends to deliver cutting-edge solutions."
+      },
+      "support": {
+        "title": "Customer Success",
+        "description": "Your success is our success. We provide ongoing support and guidance to ensure your website continues to perform at its best."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "developer": {
+        "name": "Alex Thompson",
+        "role": "Lead Developer",
+        "description": "Full-stack developer with 8+ years of experience in modern web technologies."
+      },
+      "designer": {
+        "name": "Maria Garcia",
+        "role": "Creative Director",
+        "description": "Award-winning designer specializing in user experience and brand identity."
+      },
+      "manager": {
+        "name": "David Kim",
+        "role": "Project Manager",
+        "description": "Ensuring every project is delivered on time and exceeds client expectations."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to start your project? We'd love to hear from you.",
+    "info": {
+      "title": "Contact Information",
+      "address": "123 Web Street, Digital City, DC 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "hello@webfancypro.com"
+    },
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "monday": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "weekend": "Saturday - Sunday: 10:00 AM - 4:00 PM"
+    }
+  }
+}
